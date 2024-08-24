@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaiahsWork
+- 👋 All data visualized is collected from open sources, cleaned, and visualized. Organized by type of visualization such as ad hon, financial, statistical, etc.
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Python, Excel, and PowerBI.
 - 💞️ I’m looking to collaborate on ...
